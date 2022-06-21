@@ -1,0 +1,15 @@
+org\example\model\User.class
+org\example\model\Role.class
+org\example\controller\EmployeeController.class
+org\example\repository\EmployeeRepository.class
+org\example\service\UserServiceImpl.class
+org\example\service\EmployeeService.class
+org\example\repository\UserRepository.class
+org\example\controller\UserRegistrationController.class
+org\example\controller\MainController.class
+org\example\dto\UserRegistrationDto.class
+org\example\config\SecurityConfiguration.class
+org\example\service\EmployeeServiceImpl.class
+org\example\EmployeeManagementWebappApplication.class
+org\example\model\Employee.class
+org\example\service\UserService.class
